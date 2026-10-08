@@ -25,7 +25,7 @@ O aprendizado foi dividido em dois pilares principais:
 As pastas estão divididas por linguagens. Abaixo está o sumário de conteúdos:
 
 ### Orientações sobre os exercícios práticos
-* **`Orientacao/..`**: Arquivos PDF com as orientações passadas pela universidade.
+* **`Orientacao/..`**: Arquivos PDF com as orientações relacionadas com as práticas, passadas pela universidade.
 
 ### Estilos
 * **`CSS/Estilos/..`**: Arquivos CSS com os estilos respectivos a cada arquivo HTML.
@@ -46,6 +46,12 @@ As pastas estão divididas por linguagens. Abaixo está o sumário de conteúdos
 * **`css/paginainicial.css/`**: Arquivo CSS com o primeiro uso do mesmo de facto.
 * **`css/pseudoclasses.css/`**: Arquivo CSS abordando uso de imagens com hyperlinks e propriedade _hover_.
 * **`css/quadrados.css/`**: Arquivo CSS sobre dispor elementos em áreas diferentes da janela.
+* **`javascript/scripts/exercicio1.js`/**: Arquivo JavaScript com resolução do primeiro exercício proposto: Botão interativo.
+* **`javascript/scripts/exercicio2.js`/**: Arquivo JavaScript com resolução do primeiro exercício proposto: Calculadora básica com botão.
+* **`javascript/scripts/exercicio3.js`/**: Arquivo JavaScript com resolução do primeiro exercício proposto: Calculadora básica sem botão.
+* **`javascript/scripts/scriptcomandos.js`/**: Arquivo JavaScript com introdução aos primeiros comandos no console JavaScript.
+* **`javascript/scripts/scriptjson.js`/**: Arquivo JavaScript com introdução às mecânicas JSON.
+* **`javascript/scripts/scriptprimeirapagina.js`/**: Arquivo JavaScript com primeiro uso _de facto_ do JavaScript.
 
 ---
 
