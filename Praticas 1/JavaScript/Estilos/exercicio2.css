@@ -1,0 +1,41 @@
+input[type='text'] {
+    width: 30%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+select {
+    width: 20%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid;
+    font-weight: bold;
+    text-align: center;
+}
+
+.botao {
+    display: block;
+    width: 10%;
+    padding: 10px 15px;
+    border: 0;
+    background: darkblue;
+    color: #fff;
+    border-radius: 5px;
+    margin: 5px 0;
+}
+
+.textoResultado {
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', serif;
+    font-size: 25px;
+}
+
+.resultado {
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+
+}
